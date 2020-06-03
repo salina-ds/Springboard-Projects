@@ -1,7 +1,5 @@
 # Relax Take Home Challenge  
 
-Mock Interview Take Home Challenge from Relax, Inc.   
-
 Define an "adopted user" as a user who has logged in three separate days in at 
 least one seven day period. Identify which factors predict user adoption.  
 
