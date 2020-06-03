@@ -12,4 +12,12 @@ Explore clusters using PCA.
 
 Explore relationship between raw data and clusters. Tell a story about the fit.   
 
-Explore additional clustering algorithms and compare results with K-means. 
+Explore additional clustering algorithms and compare results with K-means.   
+
+### Findings  
+
+Poor results with K-means.   
+
+PCA suggests 3 clusters, but overlap of clusters, difficult to correlate clusters to original data.  
+
+Additional clustering algorithms also have challenges finding clusters in data. 
