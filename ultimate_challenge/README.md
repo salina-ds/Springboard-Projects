@@ -14,5 +14,6 @@ Assign subset of drivers to get reimbursed, another subset not reimbursed. Run t
 3. Create a model to predict rider retention from six months of rider data.   
 a. Perform cleaning, exploratory analysis, and visualizations of the data.   
 b. Build a predictive model to determine whether or not a rider will be active in their 6th month.  
-c. Discuss how Ultimate, Inc. might leverage the insights gained from the model.  
+c. Discuss how Ultimate, Inc. might leverage the insights gained from the model.    
+
 Main factor in rider retention is number of trips in first 30 days, percent of rides during weekdays, average distance per trip in first 30 days. 
