@@ -4,7 +4,8 @@
 
 Customer Segmentation using K-means Clustering
 
-Analyze data from wine vendor. Data includes wine offers and customer purchases.   
+Analyze data from wine vendor. Data includes wine offers and customer purchases.  
+  
 Explore data with K-means Clustering. 
 
 Explore clusters using PCA.  
